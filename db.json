@@ -1,33 +1,27 @@
 {
   "users": [
     {
-      "id": "84f4",
-      "name": "temp",
-      "email": "temp@gmail.com",
-      "role": "User"
-    },
-    {
-      "id": "13bd",
-      "name": "i",
-      "email": "i@gmail.com",
-      "role": "User"
-    },
-    {
       "id": "2d33",
       "name": "elon",
       "email": "elon@gmail.com",
       "role": "User"
     },
     {
-      "id": "0144",
-      "name": "uday",
+      "id": "be09",
+      "name": "uday bagda",
       "email": "bagdauday3@gmail.com",
       "role": "Admin"
     },
     {
-      "id": "be09",
-      "name": "udaybag",
-      "email": "bagauday2@gmail.com",
+      "id": "001",
+      "name": "dharm",
+      "email": "dhamo@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "283b",
+      "name": "abcd",
+      "email": "abc@gmail.com",
       "role": "Admin"
     }
   ]
